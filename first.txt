@@ -1,1 +1,6 @@
-hello world
+在本地仓库里添加一些文件
+git add 
+git commit -m "first commit"  
+
+上传到github：
+git push origin master  
